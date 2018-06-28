@@ -1,0 +1,21 @@
+body{ 
+  background-attachment: url(img/tumblr_oahxgwu6m11vxpileo1_5001%20copy.gif) 
+  background-size: cover;
+
+}
+h1 { 
+color:white ;
+text-align: center;
+  font-family:'Barrio' ;font-size: 50px;
+}
+
+}
+div { 
+color: white;
+}
+.boxed {
+  border: 12px solid white ;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto
+}
