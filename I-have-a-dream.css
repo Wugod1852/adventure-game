@@ -12,10 +12,10 @@ h1, h2, h3, h4, h5, h6 {
     left: 20%;
 }
 ul {position: fixed;
-    color: aqua;
+    color: white;
     top: 35%;
     left: 40%;
     font-size: 50px
 }
-a {color: aqua;
+a {color: white;
 }
